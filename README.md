@@ -6,4 +6,4 @@ A React + TypeScript project that allows users to add comments and replies with 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-comment-system.git
+   git clone https://github.com/YaseenSadat/RecursiveCommentReplySystem.git
